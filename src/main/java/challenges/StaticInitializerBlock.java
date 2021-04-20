@@ -11,6 +11,8 @@ public class StaticInitializerBlock {
     static{
         Scanner sc = new Scanner(System.in);
 
+        
+
         B = sc.nextInt();
         H = sc.nextInt();
 
